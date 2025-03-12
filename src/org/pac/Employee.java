@@ -11,7 +11,8 @@ public static void main(String[] args) {
 	System.out.println(w.a);
 	w.empName();
 	System.out.println(w.a);
-	
+	System.out.println("hii");
+	System.out.println("my name is muni");
 	w.empName();
 	}
 }
