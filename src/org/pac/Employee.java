@@ -11,7 +11,8 @@ public static void main(String[] args) {
 	System.out.println(w.a);
 	w.empName();
 	System.out.println(w.a);
-	
+	System.out.println("muni is work completed");
+	System.out.println("raj is not completed");
 	w.empName();
 	}
 }
